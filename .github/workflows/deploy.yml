@@ -1,4 +1,4 @@
-name: Deploy APP Lab05
+name: Deploy APP Labarosa725
 on:
   push:
     branches: [ main ]

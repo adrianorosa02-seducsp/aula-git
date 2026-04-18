@@ -23,6 +23,7 @@ dev = [
     "pytest (>=9.0.3,<10.0.0)"
 ]
 
+
 [tool.taskipy.tasks]
 run = "fastapi dev fast_zero/app.py"
 test = "pytest -v"
